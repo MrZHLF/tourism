@@ -51,7 +51,7 @@ export default {
 		border-radius: .1rem
 		color: #ccc
 	.header-right 
-		width: 1.24rem
+		width: 1.6rem
 		float: right
 		padding: 0 .1rem
 		text-align: center

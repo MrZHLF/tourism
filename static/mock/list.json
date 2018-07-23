@@ -1,0 +1,36 @@
+{
+  "ret": true,
+  "data": {
+    "DetaillList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/wugc/p39/201206/01/965e1280dd5909bc93835fbb.png_640x276_c4a92fd7.png",
+        "name": "金沙滩海滨浴场",
+		"desc": "很美的一个海滨浴场，忍不住就脱了鞋去玩水",
+		"price": "30"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p93/201211/02/371430a082e62d1993835fbb.jpg_640x276_e208c638.jpg",
+        "name": "棒棰岛",
+		"desc": "一花一世界，一沙一天堂",
+		"price": "28"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p66/201211/07/6fa6eeacaf0bed4393835fbb.jpg_640x276_ef64714d.jpg",
+        "name": "傅家庄浴场",
+        "desc": "一对对恋人，一群群嬉戏的孩子沐浴阳光",
+        "price": "28"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201301/20/cb371354e35341c993835fbb.jpg_640x276_c11a1641.jpg",
+       "name": "夏家河子海水浴场",
+       "desc": "本地人都好喜欢在黄昏时分来这里游泳",
+       "price": "30"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1503/79/7929860c72940be4.water.jpg_640x276_d76e3e83.jpg",
+        "name": "星海湾海水浴场",
+        "desc": "这里不仅可以游泳还可以烧烤",
+        "price": "30"
+      }]
+  }
+}

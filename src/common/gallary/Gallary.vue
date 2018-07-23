@@ -3,11 +3,8 @@
 		<div class="wrapper">
 			<swiper :options="swiperOption">
 				<!-- slides -->
-				<swiper-slide>
-					<img class="swiper-img" src="http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_r_800x800_56e729ef.png" alt="">
-				</swiper-slide>
-				<swiper-slide>
-					<img class="swiper-img" src="http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_r_800x800_56e729ef.png" alt="">
+				<swiper-slide v-for="(item,index) of imgs" :key="index">
+					<img class="swiper-img" :src="item" alt="">
 				</swiper-slide>
 				<div class="swiper-pagination"  slot="pagination"></div>
 			</swiper>

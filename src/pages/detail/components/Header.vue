@@ -14,6 +14,7 @@
 
 <script>
 export default {
+	name:"DetailHeader",
 	data () {
 		return {
 			showHeader:true,
