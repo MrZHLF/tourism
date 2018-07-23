@@ -21,7 +21,7 @@
 	   如果显示一下内容说明安装成功
 	   I  Your application is running here: http://localhost:8080
 ```
-##  常见引入第三方
+## 常见引入第三方
 	在main.js中引入
 	import 'styles/reset.css'  //重置css样式
 	import 'styles/border.css'  //解决移动端1像素问题
@@ -33,3 +33,4 @@
 ## 成果展示
 ![avatar](./static/1.png)
 ![avatar](./static/2.png)
+![avatar](./static/3.png)
