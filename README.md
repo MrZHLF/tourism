@@ -13,7 +13,7 @@
 	7. better-scroll: 移动滚动插件
 ## 项目编译和运行
     1. 可以直接在git上下载项目源码。把github下载到本地，
-	git clone
+	git clone git@github.com:MrZHLF/tourism.git
 	2. 进入到tourism目录，进行初始化，安装依赖
 		npm run dev
 	3. 依赖安装成功后执行启动命令
