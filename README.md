@@ -20,7 +20,6 @@
 	   npm run dev
 	   如果显示一下内容说明安装成功
 	   I  Your application is running here: http://localhost:8080
-```
 ## 常见引入第三方
 	在main.js中引入
 	import 'styles/reset.css'  //重置css样式
@@ -29,7 +28,7 @@
 	修改别名
 	在 webpack.base.conf.js 修改别名 'styles': resolve('src/assets/styles') 
 	在相应的目录直接用 @import '~styles/varibles.styl'来引入需要的文件
-```
+	
 ## 成果展示
 ![avatar](./static/1.png)
 ![avatar](./static/2.png)
